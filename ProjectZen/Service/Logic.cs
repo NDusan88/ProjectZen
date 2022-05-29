@@ -69,7 +69,10 @@ namespace ProjectZen.Service
                 avrage = getCurrencies.Average(x => x.Rates)
             };
 
-
+            System.Console.Clear();
+            System.Console.WriteLine("A min rate of "+min.min+" on "+min.date+"");
+            System.Console.WriteLine("A max rate of " + max.max + " on " + max.date + "");
+            System.Console.WriteLine("A avrage rate of " + avrage.avrage);
             return result = new CurrencyDataResult()
             {
                 GetMax = max,
