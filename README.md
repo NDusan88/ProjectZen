@@ -1,7 +1,7 @@
 # ProjectZen
 Download Project
 Extract the project to desire location
-In project run open **CMD** and run command **dotnet run**
+In project run **CMD** and enter following command **dotnet run**
 Open browser and go to the following url **https://localhost:5001/swagger/index.html**
 Swaggere UI will open, after that you can pass desire parametars to retrive the data.
 
