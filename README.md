@@ -22,11 +22,11 @@ You can call the api with parametars.
   Target currency**
 
 Example: [http://localhost:3000/Exchangerate/2017-02-23,2012-02-23,2020-02-23/USD/RSD](http://localhost:3000/Exchangerate/2018-02-01,%202018-02-15,%202018-03-01/SEK/NOK)
+or [
+http://localhost:3000/swagger/index.html](http://localhost:3000/swagger/index.html)
 
 ![image](https://user-images.githubusercontent.com/20918713/170870304-47bf73ee-6061-4cd2-9da8-317633ecfde9.png)
 
-[
-http://localhost:3000/swagger/index.html](http://localhost:3000/swagger/index.html)
 Output:
 ![image](https://user-images.githubusercontent.com/20918713/170870627-921a2410-7553-47f9-864b-7f481691ee35.png)
 
