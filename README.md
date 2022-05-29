@@ -15,7 +15,7 @@ Result:
 
 Also in project there is **Dockerfile** that can be used to create a **docker image**.
 
-Once the docket images is created and microservice has been started in Contaniner.
+Once the docket images is created and microservice has been started in container.
 You can call the api with parametars.
 **Set of dates
   Base currency
