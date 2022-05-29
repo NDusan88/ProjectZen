@@ -12,6 +12,9 @@ Example:
 Result:
 ![image](https://user-images.githubusercontent.com/20918713/170870344-97131783-68c1-4f1a-841f-694f79c62c28.png)
 
+Example Output in Console:
+![image](https://user-images.githubusercontent.com/20918713/170870912-438917c8-6b9e-4e5b-b2ed-4041c78ea458.png)
+
 
 Also in project there is **Dockerfile** that can be used to crate a **docker image**.
 
@@ -25,4 +28,5 @@ Example: [http://localhost:3000/Exchangerate/2017-02-23,2012-02-23,2020-02-23/US
 
 OutPut:
 ![image](https://user-images.githubusercontent.com/20918713/170870627-921a2410-7553-47f9-864b-7f481691ee35.png)
+
 
