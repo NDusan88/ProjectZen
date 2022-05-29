@@ -1,5 +1,5 @@
 FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
-ENV ASPNETCORE_ENVIRONMENT=Development
+
 WORKDIR /src
 COPY ProjectZen.csproj .
 RUN dotnet restore
